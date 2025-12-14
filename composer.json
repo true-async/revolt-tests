@@ -1,0 +1,13 @@
+{
+    "name": "test/revolt-trueasync",
+    "description": "Test project for Revolt with TrueAsync",
+    "require": {
+        "php": ">=8.6",
+        "revolt/event-loop": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Test\\": "src/"
+        }
+    }
+}
