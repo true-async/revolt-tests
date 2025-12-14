@@ -10,7 +10,7 @@ This test suite ensures that Revolt works correctly with TrueAsync's fiber handl
 
 ## Requirements
 
-- PHP 8.1+ with TrueAsync extension enabled
+- PHP 8.6+ with TrueAsync extension enabled (fiber-support)
 - Composer
 
 ## Installation
